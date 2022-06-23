@@ -1,0 +1,20 @@
+/* Styles for css practice excercise 2 */
+.des {
+    background-color: #ffb6c1;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.Des_ {
+    font-size: 24px;
+}
+
+#n4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
